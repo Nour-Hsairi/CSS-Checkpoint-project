@@ -1,0 +1,72 @@
+.nav1 {
+    text-align: right;
+}
+body {
+    background-color: rgba(255, 223, 223, 0.932);
+  }
+  h1{
+    color: mediumvioletred ;
+	font-family: roboto;
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 10px;
+  word-spacing: 10px;
+  text-decoration: underline;
+  }
+  .emojis {
+      font-size:48px;
+      text-align: center;
+  }
+  .phrase1 {
+    font-size:35px;
+    text-align: center;
+    color: rgb(143, 136, 139);
+  }
+  .phrase2 {
+    font-size:30px;
+    text-align: center;
+    color: rgb(143, 136, 139);
+  }
+  h2 {
+	color: rgb(240, 135, 187);
+	font-family: roboto;
+    text-align: left;
+    font-size: 46px;
+    letter-spacing: 5px;
+  word-spacing: 7px;
+  text-decoration: dashed underline;
+}
+.aboutus {
+   text-align: justify;
+}
+.ojja {
+    float: right;
+}
+.food {
+    text-align: justify;
+}
+.brika {
+    float: right;
+}
+h3 {
+	color: rgb(238, 69, 162);
+	font-family: roboto;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 5px;
+  word-spacing: 5px;
+  text-decoration: underline;
+}
+.couscous {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.HH {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+footer {
+    float: right;
+}
